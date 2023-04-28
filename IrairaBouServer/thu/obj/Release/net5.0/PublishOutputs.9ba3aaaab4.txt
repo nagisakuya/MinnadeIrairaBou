@@ -1,0 +1,16 @@
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Server.exe
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\publish\web.config
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\publish\appsettings.Development.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\publish\appsettings.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\publish\Server.deps.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\publish\Server.runtimeconfig.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Server.dll
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Server.deps.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Server.runtimeconfig.json
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Server.pdb
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

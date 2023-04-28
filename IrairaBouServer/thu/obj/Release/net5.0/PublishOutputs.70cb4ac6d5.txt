@@ -1,0 +1,11 @@
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Thunkable.exe
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Thunkable.dll
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Thunkable.deps.json
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Thunkable.runtimeconfig.json
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Thunkable.pdb
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Thunkable\thu\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

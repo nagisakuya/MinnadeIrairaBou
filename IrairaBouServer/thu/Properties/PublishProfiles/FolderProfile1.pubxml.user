@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\MinnadeIrairaBou\IrairaBouServer\thu\publish</_PublishTargetUrl>
+    <History>True|2021-09-06T14:17:56.7085129Z;True|2021-09-06T23:16:57.6248313+09:00;True|2021-09-06T23:16:43.7642591+09:00;True|2021-09-06T23:16:25.2269176+09:00;True|2021-09-06T22:48:45.5460229+09:00;</History>
+  </PropertyGroup>
+</Project>
